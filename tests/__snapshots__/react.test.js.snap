@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loads and displays greeting 1`] = `
+<DocumentFragment>
+  <div>
+    <button
+      disabled=""
+    >
+      Ok
+    </button>
+    <h1>
+      hello there
+    </h1>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,14 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2019,
+    "sourceType": "module",
+    "ecmaFeatures": {
+        "jsx": true
+    }
+  },
+  "env": {
+    "browser": true,
+    "node": true  
+  },
+  "extends": ["plugin:prettier/recommended", "eslint:recommended", "plugin:jest/recommended", "plugin:react/recommended"]
+}
